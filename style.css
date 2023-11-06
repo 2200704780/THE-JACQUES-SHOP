@@ -131,3 +131,10 @@ button:hover{
   padding: 10px;
 
 }
+.men{
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+   background-color: whitesmoke;
+  padding: 10px;
+
+}
